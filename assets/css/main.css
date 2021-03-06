@@ -2783,6 +2783,15 @@ ul.iconify li {
   line-height: 1.7em;
 }
 
+li.icon-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: -1em;
+}
+li.icon-list a {
+  margin-left: 4px;
+}
+
 p.subtitle {
   margin: 2em 0 0.85em 0;
   font-size: 1.1em;
@@ -2811,13 +2820,6 @@ p.subtitle {
   margin-top: 1em;
 }
 
-#ranking-provincial {
-  column-count: 2;
-}
-#ranking-provincial .score-container {
-  margin: 1em 0;
-}
-
 p.centered {
   text-align: center;
 }
@@ -2833,7 +2835,7 @@ p.featured .emoticon {
 
 p.featured .cta-twitter {
   background-color: #1da1f2;
-  color: #FFF;
+  color: #fff;
   padding: 4px;
   border-radius: 3px;
   display: block;
@@ -2861,7 +2863,7 @@ p.tablefooter {
 }
 
 #score {
-  color: #FFF;
+  color: #fff;
   font-weight: bold;
   font-size: 80px;
   width: 128px;
@@ -2917,4 +2919,16 @@ img[src*="#thumbnail"] {
     margin: auto;
     width: 100%;
   }
+}
+
+.score-list-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 3em;
+}
+.score-list-wrapper .score-container {
+  flex: 1;
+  min-width: 300px;
+  margin: 0 0.5em 1em;
 }

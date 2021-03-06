@@ -1,4 +1,4 @@
-<h1>websegura</h1>
+<h1>#websegura</h1>
 <p>Una iniciativa de <a href="https://pucelabits.org/">PucelaBits</a>. Analizamos y mostramos <a href="https://websegura.pucelabits.org">seguridad HTTPS de sitios web públicos</a>, como medida para visualizar aquellos que pueden suponer un riesgo para sus usuarios.</p>
 <h2>Participa</h2>
 <h3>Añadir una web</h3>
@@ -8,33 +8,38 @@
 <p>💡 Si tienes alguna idea o pregunta para mejorar, podemos <a href="https://github.com/PucelaBits/websegura/discussions">debatirla en los foros</a>.</p>
 <h3>Habla con nosotros</h3>
 <ul>
-<li><a href="https://matrix.to/#/#PucelaBits_websegura:gitter.im">Chat en matrix</a></li>
-<li><a href="https://gitter.im/PucelaBits/websegura?utm_source=badge&amp;utm_medium=badge&amp;utm_content=badge"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="Chat en gitter https://gitter.im/PucelaBits/websegura"></a></li>
-<li><a href="https://github.com/PucelaBits/websegura/discussions">Foros del proyecto</a></li>
-<li><a href="https://pucelabits.org">PucelaBits</a></li>
+<li>Salas de chat: <a href="https://matrix.to/#/#PucelaBits_websegura:gitter.im">En matrix</a> - <a href="https://gitter.im/PucelaBits/websegura?utm_source=badge&amp;utm_medium=badge&amp;utm_content=badge"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="Chat en gitter https://gitter.im/PucelaBits/websegura"></a> - <a href="https://t.me/pucelabits_websegura">En Telegram</a> (enlazadas entre ellas)</li>
+<li><a href="https://github.com/PucelaBits/websegura/discussions">Foros del proyecto</a> - Nuevas ideas y debates.</li>
+<li><a href="https://pucelabits.org">PucelaBits</a> - El sitio principal de nuestro grupo.</li>
 </ul>
+<h3>Pautas para la participación</h3>
+<p>Este repositorio se rige por el <a href="https://pucelabits.org/pautas-participacion/">código de conducta y etiqueta de PucelaBits</a>.</p>
 <h2>Desarrollo</h2>
 <p>Si quieres ayudar con el código de la web para mejorarla o añadir nuevas funcionalidades por favor sigue estas instrucciones.</p>
 <h3>Requisitos</h3>
-<p>El framework que usamos es <a href="https://www.11ty.dev/">Eleventy</a>. Necesitarás git y nodejs 14+.</p>
-<pre><code>sudo apt get install git npm jq curl
+<p>El framework que usamos es <a href="https://www.11ty.dev/">Eleventy</a>. Necesitarás <code>git</code> y <code>nodejs</code> 14+.</p>
+<pre><code class="language-sh">sudo apt get install git nodejs
+</code></pre>
+<p>Si quieres ejecutar el script para hacer el análiais de las webs, también necesitarás <code>jq</code> y <code>curl</code>.</p>
+<pre><code class="language-sh">sudo apt get install jq curl
 </code></pre>
 <p>Clona el repo</p>
-<pre><code>git clone git@github.com:PucelaBits/websegura.git
+<pre><code class="language-sh">git clone git@github.com:PucelaBits/websegura.git
 </code></pre>
 <h3>Ejecutar en local</h3>
 <p>Instala dependencias</p>
-<pre><code>cd websegura
+<pre><code class="language-sh">cd websegura
 npm install
 </code></pre>
-<p>Ejecuta Eleventy</p>
-<pre><code>npx eleventy --serve
+<p>Levanta el servidor de desarrollo</p>
+<pre><code class="language-sh">npm start
 </code></pre>
-<p>Deberías poder acceder a la web en local en <a href="http://localhost:8080">http://localhost:8080</a></p>
+<p>Deberías poder acceder a la web en local en <a href="http://localhost:8080">http://localhost:8080</a>. Mientras dejes el proceso abierto, los cambios que hagas en el código se irán compilando automáticamente y podrás verlos recargando en el navegador.</p>
 <h3>Actualizar el análisis de los sitios</h3>
-<p>Si modificas los listados de URLs, puede actualizar el análisis ejecutando (llevará unos minutos)</p>
-<pre><code>npm run crawl
+<p>Si modificas los listados de URLs, puede actualizar el análisis ejecutando (llevará unos minutos).</p>
+<pre><code class="language-sh">npm run crawl
 </code></pre>
+<p>El análisis se ejecuta automáticamente cada día y tras cada nuevo commit a la rama principal, por lo que no es necesario hacer commit de los ficheros generados.</p>
 <h3>Añadir una nueva provincia</h3>
 <ul>
 <li>Verifica que la comunidad de la provincia existe en <code>_data/comunidades</code>, si no, créala.</li>
