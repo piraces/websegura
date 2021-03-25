@@ -1,21 +1,21 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 22 Mar 2021 00:29:28 GMT",
+  "end_time": "Thu, 25 Mar 2021 00:14:59 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "close",
     "Content-Encoding": "gzip",
-    "Content-Length": "8397",
+    "Content-Length": "8399",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Mon, 22 Mar 2021 00:11:12 GMT",
+    "Date": "Wed, 24 Mar 2021 23:56:34 GMT",
     "Liferay-Portal": "Liferay Portal Standard Edition 5.2.3 (Augustine / Build 5203 / May 20, 2009)",
-    "Set-Cookie": "JSESSIONID=5343C831A1C44941A84C1C11181E39CD; Path=/, GUEST_LANGUAGE_ID=es_ES; Expires=Tue, 22-Mar-2022 00:11:12 GMT; Path=/, COOKIE_SUPPORT=true; Expires=Tue, 22-Mar-2022 00:11:12 GMT; Path=/"
+    "Set-Cookie": "JSESSIONID=B99CFBB6FE7122F4C9C4EFC8BC2AA6D4; Path=/, GUEST_LANGUAGE_ID=es_ES; Expires=Thu, 24-Mar-2022 23:56:34 GMT; Path=/, COOKIE_SUPPORT=true; Expires=Thu, 24-Mar-2022 23:56:34 GMT; Path=/"
   },
-  "scan_id": 18326065,
+  "scan_id": 18375836,
   "score": 0,
-  "start_time": "Mon, 22 Mar 2021 00:29:11 GMT",
+  "start_time": "Thu, 25 Mar 2021 00:13:22 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
