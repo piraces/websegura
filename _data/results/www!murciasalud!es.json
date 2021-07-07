@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 20 Jun 2021 00:06:53 GMT",
+  "end_time": "Wed, 07 Jul 2021 00:05:46 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,19 +8,20 @@
     "Cache-Control": "private",
     "Connection": "close",
     "Content-Type": "text/html; charset=iso-8859-1",
-    "Date": "Sun, 20 Jun 2021 00:06:37 GMT",
+    "Date": "Wed, 07 Jul 2021 00:05:21 GMT",
     "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
     "Pragma": "no-cache",
     "Server": "Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1t",
-    "Set-Cookie": "PHPSESSID=0db582d23de39b17d999878ec70514fa; path=/; HttpOnly",
-    "Transfer-Encoding": "chunked"
+    "Set-Cookie": "PHPSESSID=5e332b2d100bcd36be94db3888944d03; path=/; HttpOnly",
+    "Transfer-Encoding": "chunked",
+    "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 19741996,
+  "scan_id": 20070826,
   "score": 0,
-  "start_time": "Sun, 20 Jun 2021 00:05:44 GMT",
+  "start_time": "Wed, 07 Jul 2021 00:05:11 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
-  "tests_passed": 5,
+  "tests_failed": 6,
+  "tests_passed": 6,
   "tests_quantity": 12
 }
