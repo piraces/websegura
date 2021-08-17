@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 31 Jul 2021 00:08:05 GMT",
+  "end_time": "Tue, 17 Aug 2021 00:05:43 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,12 +8,12 @@
     "Connection": "close",
     "Content-Length": "315",
     "Content-Type": "text/html; charset=us-ascii",
-    "Date": "Sat, 31 Jul 2021 00:07:59 GMT",
+    "Date": "Tue, 17 Aug 2021 00:05:37 GMT",
     "Server": "Microsoft-HTTPAPI/2.0"
   },
-  "scan_id": 20560841,
+  "scan_id": 20931226,
   "score": 0,
-  "start_time": "Sat, 31 Jul 2021 00:05:41 GMT",
+  "start_time": "Tue, 17 Aug 2021 00:05:31 GMT",
   "state": "FINISHED",
   "status_code": 404,
   "tests_failed": 6,
