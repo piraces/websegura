@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 19 Sep 2021 00:06:30 GMT",
+  "end_time": "Sun, 26 Sep 2021 00:06:42 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,14 +9,14 @@
     "Connection": "close",
     "Content-Length": "5640",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Sun, 19 Sep 2021 00:06:19 GMT",
+    "Date": "Sun, 26 Sep 2021 00:06:30 GMT",
     "Pragma": "no-cache",
     "Server": "OpenCms/11.0.1",
-    "Set-Cookie": "JSESSIONID=A1F0DFE5F8D8CC5C5A7D9598B3959FE6; Path=/opencms; HttpOnly"
+    "Set-Cookie": "JSESSIONID=BD06C2258DABDD72F4A214E9E8448AFA; Path=/opencms; HttpOnly"
   },
-  "scan_id": 21525362,
+  "scan_id": 21638462,
   "score": 0,
-  "start_time": "Sun, 19 Sep 2021 00:06:09 GMT",
+  "start_time": "Sun, 26 Sep 2021 00:06:22 GMT",
   "state": "FINISHED",
   "status_code": 404,
   "tests_failed": 7,
