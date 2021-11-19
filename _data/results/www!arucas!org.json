@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 14 Nov 2021 00:07:01 GMT",
+  "end_time": "Fri, 19 Nov 2021 00:06:38 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,12 +8,12 @@
     "Connection": "keep-alive",
     "Content-Length": "102",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sun, 14 Nov 2021 00:07:00 GMT",
+    "Date": "Fri, 19 Nov 2021 00:06:37 GMT",
     "Server": "Apache"
   },
-  "scan_id": 22678804,
+  "scan_id": 22792854,
   "score": 0,
-  "start_time": "Sun, 14 Nov 2021 00:06:57 GMT",
+  "start_time": "Fri, 19 Nov 2021 00:06:34 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
