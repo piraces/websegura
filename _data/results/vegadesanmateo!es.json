@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 29 Dec 2021 00:08:05 GMT",
+  "end_time": "Sat, 01 Jan 2022 00:07:44 GMT",
   "grade": "D+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -12,7 +12,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "es",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Wed, 29 Dec 2021 00:07:20 GMT",
+    "Date": "Sat, 01 Jan 2022 00:07:27 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Server": "HTTPd",
     "Transfer-Encoding": "chunked",
@@ -21,9 +21,9 @@
     "X-Drupal-Cache": "MISS",
     "X-Frame-Options": "SAMEORIGIN"
   },
-  "scan_id": 23555419,
+  "scan_id": 23605877,
   "score": 40,
-  "start_time": "Wed, 29 Dec 2021 00:07:14 GMT",
+  "start_time": "Sat, 01 Jan 2022 00:07:23 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
