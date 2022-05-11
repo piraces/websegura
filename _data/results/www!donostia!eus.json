@@ -1,26 +1,24 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 08 May 2022 00:11:53 GMT",
+  "end_time": "Wed, 11 May 2022 00:11:12 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
-    "Content-Length": "39900",
+    "Content-Length": "38599",
     "Content-Type": "text/html",
-    "Date": "Sun, 08 May 2022 00:11:51 GMT",
-    "Feature-Policy": "camera 'none', microphone 'none'; usb 'none'; payment 'none'",
-    "Set-Cookie": "TS011b0901=018ac16f67f46063309acb46c34bb397915ba232b095275fdbb3a0fa35aed491a710525017ca4dff56f9adc08340377c7178836d05; Path=/; Domain=.www.donostia.eus; Secure; HTTPOnly",
+    "Date": "Wed, 11 May 2022 00:11:09 GMT",
+    "Feature-Policy": "microphone 'none'; usb 'none'; payment 'none'",
+    "Set-Cookie": "TS011b0901=018ac16f67e5497674cfd70f9bd5db7dcc71fdddbf04259d57467b80b050ceca730f79097662310fe469d34632df66fd007a94dee3; Path=/; Domain=.www.donostia.eus; Secure; HTTPOnly",
     "Strict-Transport-Security": "max-age=16070400; includeSubDomains",
-    "X-Content-Type-Option": "nosniff",
-    "X-Content-Type-Options": "nosniff",
-    "X-Frame-Options": "SAMEORIGIN"
+    "X-Content-Type-Option": "nosniff"
   },
-  "scan_id": 26285646,
-  "score": 15,
-  "start_time": "Sun, 08 May 2022 00:11:40 GMT",
+  "scan_id": 26360111,
+  "score": 0,
+  "start_time": "Wed, 11 May 2022 00:11:04 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 3,
-  "tests_passed": 9,
+  "tests_failed": 5,
+  "tests_passed": 7,
   "tests_quantity": 12
 }
