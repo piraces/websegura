@@ -1,21 +1,21 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 27 Jul 2022 00:15:54 GMT",
+  "end_time": "Sat, 30 Jul 2022 00:12:01 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "public, max-age=0",
-    "Content-Length": "50080",
+    "Content-Length": "49485",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Wed, 27 Jul 2022 00:03:11 GMT",
-    "Last-Modified": "Wed, 27 Jul 2022 00:03:11 GMT",
+    "Date": "Fri, 29 Jul 2022 23:59:15 GMT",
+    "Last-Modified": "Fri, 29 Jul 2022 23:59:15 GMT",
     "Server": "OpenCms/9.5.2",
-    "Set-Cookie": "JSESSIONID=BE6C6FE81AFED4FAF4D115AA7108259A; Path=/opencms"
+    "Set-Cookie": "JSESSIONID=92813AD8384CAAE4DBE2D88114F87CC7; Path=/opencms"
   },
-  "scan_id": 28154495,
+  "scan_id": 28287408,
   "score": 0,
-  "start_time": "Wed, 27 Jul 2022 00:15:04 GMT",
+  "start_time": "Sat, 30 Jul 2022 00:11:46 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
