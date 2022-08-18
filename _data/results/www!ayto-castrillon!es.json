@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 15 Aug 2022 02:04:22 GMT",
-  "grade": "D",
+  "end_time": "Thu, 18 Aug 2022 01:09:02 GMT",
+  "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -10,12 +10,13 @@
     "Content-Encoding": "gzip",
     "Content-Security-Policy": "default-src 'self'; form-action 'self'; style-src 'self' 'unsafe-inline' fonts.googleapis.com cdn.jsdelivr.net code.jquery.com use.fontawesome.com cdnjs.cloudflare.com; script-src 'self' 'unsafe-inline' 'unsafe-eval'  cdn.jsdelivr.net code.jquery.com *.googletagmanager.com *.google-analytics.com cdnjs.cloudflare.com ajax.googleapis.com maxcdn.bootstrapcdn.com; font-src 'self' 'unsafe-inline' fonts.googleapis.com fonts.gstatic.com cdn.jsdelivr.net code.jquery.com use.fontawesome.com; connect-src 'self' 'unsafe-inline'  *.google-analytics.com; frame-src 'self' *.youtube.com *.google.com; frame-ancestors 'self'; img-src 'self' *.google-analytics.com data:;",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Mon, 15 Aug 2022 02:04:04 GMT",
+    "Date": "Thu, 18 Aug 2022 01:08:40 GMT",
     "Expires": "Wed, 17 Aug 2005 00:00:00 GMT",
-    "Last-Modified": "Mon, 15 Aug 2022 02:04:04 GMT",
+    "Last-Modified": "Thu, 18 Aug 2022 01:08:40 GMT",
     "Permissions-Policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()",
     "Pragma": "no-cache",
     "Server": "nginx/1.18.0 (Ubuntu)",
+    "Set-Cookie": "de291e58fc32b9bb60c4189dbc5b0fa3=d8a30a49b561cce8782544471a25c26f; path=/; HttpOnly",
     "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding",
@@ -29,12 +30,12 @@
     "referrer-policy": "no-referrer",
     "x-frame-options": "DENY"
   },
-  "scan_id": 28707503,
-  "score": 35,
-  "start_time": "Mon, 15 Aug 2022 02:03:14 GMT",
+  "scan_id": 28791900,
+  "score": 15,
+  "start_time": "Thu, 18 Aug 2022 01:08:34 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 4,
-  "tests_passed": 8,
+  "tests_failed": 5,
+  "tests_passed": 7,
   "tests_quantity": 12
 }
