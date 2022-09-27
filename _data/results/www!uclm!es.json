@@ -1,22 +1,22 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 25 Sep 2022 01:04:07 GMT",
+  "end_time": "Tue, 27 Sep 2022 02:09:35 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "no-cache, no-store",
-    "Content-Length": "115131",
+    "Content-Length": "115293",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sun, 25 Sep 2022 01:03:53 GMT",
+    "Date": "Tue, 27 Sep 2022 02:09:23 GMT",
     "Expires": "-1",
     "Pragma": "no-cache",
     "Server": "Microsoft-IIS/10.0",
-    "Set-Cookie": "ASP.NET_SessionId=qsfqph1xye315w2tljwjksjs; path=/; HttpOnly; SameSite=Lax, sto-id-47873=EOCABEKMFAAA; Path=/"
+    "Set-Cookie": "ASP.NET_SessionId=inuefv3nbxeasppi21dtby1g; path=/; HttpOnly; SameSite=Lax, sto-id-47873=EOCABEKMFAAA; Path=/"
   },
-  "scan_id": 29638660,
+  "scan_id": 29690919,
   "score": 0,
-  "start_time": "Sun, 25 Sep 2022 01:03:49 GMT",
+  "start_time": "Tue, 27 Sep 2022 02:09:18 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
