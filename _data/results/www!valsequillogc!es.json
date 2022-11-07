@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 02 Nov 2022 02:08:13 GMT",
+  "end_time": "Mon, 07 Nov 2022 00:14:42 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "20501",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Wed, 02 Nov 2022 02:07:53 GMT",
+    "Date": "Mon, 07 Nov 2022 00:14:37 GMT",
     "Expires": "Mon, 29 Oct 1923 20:30:00 GMT",
     "Keep-Alive": "timeout=5, max=149",
     "Last-Modified": "Fri, 28 Oct 2022 22:00:03 GMT",
@@ -19,9 +19,9 @@
     "Server": "Apache",
     "Vary": "Cookie,User-Agent,Accept-Encoding"
   },
-  "scan_id": 30593424,
+  "scan_id": 30700347,
   "score": 0,
-  "start_time": "Wed, 02 Nov 2022 02:05:51 GMT",
+  "start_time": "Mon, 07 Nov 2022 00:14:31 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
