@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 01 Apr 2023 01:02:09 GMT",
+  "end_time": "Sun, 02 Apr 2023 21:36:59 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -12,7 +12,7 @@
     "content-encoding": "gzip",
     "content-length": "39473",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sat, 01 Apr 2023 01:01:08 GMT",
+    "date": "Sun, 02 Apr 2023 21:36:06 GMT",
     "etag": "\"38246-1680268749;gz\"",
     "expires": "Fri, 31 Mar 2023 13:19:09 GMT",
     "link": "<https://transparenciacanarias.org/wp-json/>; rel=\"https://api.w.org/\", <https://transparenciacanarias.org/wp-json/wp/v2/pages/22052>; rel=\"alternate\"; type=\"application/json\", <https://transparenciacanarias.org/>; rel=shortlink",
@@ -21,9 +21,9 @@
     "x-powered-by": "PHP/7.4.33",
     "x-ua-compatible": "IE=edge"
   },
-  "scan_id": 35874352,
+  "scan_id": 35926373,
   "score": 15,
-  "start_time": "Sat, 01 Apr 2023 01:01:04 GMT",
+  "start_time": "Sun, 02 Apr 2023 21:36:03 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
