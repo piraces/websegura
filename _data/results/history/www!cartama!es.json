@@ -110,5 +110,33 @@
     "grade": "F",
     "scan_id": 36030925,
     "score": 15
+  },
+  {
+    "end_time": "Tue, 11 Apr 2023 00:48:41 GMT",
+    "end_time_unix_timestamp": 1681174121,
+    "grade": "D",
+    "scan_id": 36250506,
+    "score": 30
+  },
+  {
+    "end_time": "Wed, 12 Apr 2023 00:59:48 GMT",
+    "end_time_unix_timestamp": 1681261188,
+    "grade": "F",
+    "scan_id": 36284561,
+    "score": 0
+  },
+  {
+    "end_time": "Sat, 15 Apr 2023 00:13:40 GMT",
+    "end_time_unix_timestamp": 1681517620,
+    "grade": "D",
+    "scan_id": 36378962,
+    "score": 30
+  },
+  {
+    "end_time": "Sun, 16 Apr 2023 00:12:23 GMT",
+    "end_time_unix_timestamp": 1681603943,
+    "grade": "F",
+    "scan_id": 36410074,
+    "score": 0
   }
 ]
