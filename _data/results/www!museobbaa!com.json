@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 22 Apr 2023 01:18:44 GMT",
+  "end_time": "Mon, 24 Apr 2023 00:48:21 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "10327",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sat, 22 Apr 2023 01:18:24 GMT",
+    "Date": "Mon, 24 Apr 2023 00:48:12 GMT",
     "ETag": "\"2857-5f9d807468758\"",
     "Last-Modified": "Fri, 21 Apr 2023 12:45:13 GMT",
     "MS-Author-Via": "DAV",
@@ -18,9 +18,9 @@
     "Vary": "Accept-Encoding,Cookie",
     "X-Powered-By": "PleskLin"
   },
-  "scan_id": 36596468,
+  "scan_id": 36649020,
   "score": 0,
-  "start_time": "Sat, 22 Apr 2023 01:15:02 GMT",
+  "start_time": "Mon, 24 Apr 2023 00:48:10 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 8,
