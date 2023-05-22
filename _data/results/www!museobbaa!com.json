@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 20 May 2023 01:25:40 GMT",
+  "end_time": "Mon, 22 May 2023 00:48:38 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "10330",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sat, 20 May 2023 01:25:35 GMT",
+    "Date": "Mon, 22 May 2023 00:48:21 GMT",
     "ETag": "\"285a-5fc09f7c57611\"",
     "Last-Modified": "Fri, 19 May 2023 11:10:25 GMT",
     "MS-Author-Via": "DAV",
@@ -18,9 +18,9 @@
     "Vary": "Accept-Encoding,Cookie",
     "X-Powered-By": "PleskLin"
   },
-  "scan_id": 37537868,
+  "scan_id": 37599206,
   "score": 0,
-  "start_time": "Sat, 20 May 2023 01:25:28 GMT",
+  "start_time": "Mon, 22 May 2023 00:47:45 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 8,
