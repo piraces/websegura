@@ -89,5 +89,117 @@
     "grade": "F",
     "scan_id": 35121941,
     "score": 0
+  },
+  {
+    "end_time": "Thu, 30 Mar 2023 00:11:47 GMT",
+    "end_time_unix_timestamp": 1680135107,
+    "grade": "F",
+    "scan_id": 35806728,
+    "score": 10
+  },
+  {
+    "end_time": "Fri, 31 Mar 2023 01:03:47 GMT",
+    "end_time_unix_timestamp": 1680224627,
+    "grade": "F",
+    "scan_id": 35846296,
+    "score": 0
+  },
+  {
+    "end_time": "Wed, 05 Apr 2023 00:52:28 GMT",
+    "end_time_unix_timestamp": 1680655948,
+    "grade": "F",
+    "scan_id": 36032409,
+    "score": 15
+  },
+  {
+    "end_time": "Tue, 11 Apr 2023 00:10:58 GMT",
+    "end_time_unix_timestamp": 1681171858,
+    "grade": "F",
+    "scan_id": 36249780,
+    "score": 0
+  },
+  {
+    "end_time": "Sat, 15 Apr 2023 00:13:39 GMT",
+    "end_time_unix_timestamp": 1681517619,
+    "grade": "D",
+    "scan_id": 36378970,
+    "score": 30
+  },
+  {
+    "end_time": "Sun, 16 Apr 2023 00:12:27 GMT",
+    "end_time_unix_timestamp": 1681603947,
+    "grade": "F",
+    "scan_id": 36410081,
+    "score": 0
+  },
+  {
+    "end_time": "Tue, 25 Apr 2023 01:17:13 GMT",
+    "end_time_unix_timestamp": 1682385433,
+    "grade": "D",
+    "scan_id": 36686716,
+    "score": 30
+  },
+  {
+    "end_time": "Thu, 27 Apr 2023 00:17:32 GMT",
+    "end_time_unix_timestamp": 1682554652,
+    "grade": "F",
+    "scan_id": 36758618,
+    "score": 0
+  },
+  {
+    "end_time": "Thu, 11 May 2023 00:10:51 GMT",
+    "end_time_unix_timestamp": 1683763851,
+    "grade": "D",
+    "scan_id": 37222951,
+    "score": 30
+  },
+  {
+    "end_time": "Fri, 12 May 2023 00:16:30 GMT",
+    "end_time_unix_timestamp": 1683850590,
+    "grade": "F",
+    "scan_id": 37259848,
+    "score": 0
+  },
+  {
+    "end_time": "Wed, 17 May 2023 00:14:52 GMT",
+    "end_time_unix_timestamp": 1684282492,
+    "grade": "D",
+    "scan_id": 37438649,
+    "score": 30
+  },
+  {
+    "end_time": "Thu, 18 May 2023 01:00:16 GMT",
+    "end_time_unix_timestamp": 1684371616,
+    "grade": "F",
+    "scan_id": 37468496,
+    "score": 0
+  },
+  {
+    "end_time": "Fri, 26 May 2023 01:00:04 GMT",
+    "end_time_unix_timestamp": 1685062804,
+    "grade": "D",
+    "scan_id": 37853958,
+    "score": 30
+  },
+  {
+    "end_time": "Sun, 28 May 2023 00:12:23 GMT",
+    "end_time_unix_timestamp": 1685232743,
+    "grade": "F",
+    "scan_id": 37920174,
+    "score": 0
+  },
+  {
+    "end_time": "Fri, 02 Jun 2023 01:38:40 GMT",
+    "end_time_unix_timestamp": 1685669920,
+    "grade": "D",
+    "scan_id": 38087977,
+    "score": 30
+  },
+  {
+    "end_time": "Sun, 04 Jun 2023 00:10:01 GMT",
+    "end_time_unix_timestamp": 1685837401,
+    "grade": "F",
+    "scan_id": 38140047,
+    "score": 0
   }
 ]
