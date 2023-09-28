@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 26 Sep 2023 00:55:15 GMT",
+  "end_time": "Thu, 28 Sep 2023 00:08:23 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Cache-Control": "private, no-cache, no-store, must-revalidate",
     "Connection": "Keep-Alive",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 26 Sep 2023 00:54:59 GMT",
+    "Date": "Thu, 28 Sep 2023 00:08:06 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
     "Keep-Alive": "timeout=15, max=99",
     "Pragma": "no-cache",
@@ -19,9 +19,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 42558973,
+  "scan_id": 42618397,
   "score": 0,
-  "start_time": "Tue, 26 Sep 2023 00:54:55 GMT",
+  "start_time": "Thu, 28 Sep 2023 00:08:02 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
