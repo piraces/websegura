@@ -215,5 +215,40 @@
     "grade": "F",
     "scan_id": 41439960,
     "score": 15
+  },
+  {
+    "end_time": "Wed, 06 Sep 2023 01:04:17 GMT",
+    "end_time_unix_timestamp": 1693962257,
+    "grade": "D-",
+    "scan_id": 41758884,
+    "score": 25
+  },
+  {
+    "end_time": "Wed, 20 Sep 2023 00:39:22 GMT",
+    "end_time_unix_timestamp": 1695170362,
+    "grade": "D",
+    "scan_id": 42334924,
+    "score": 30
+  },
+  {
+    "end_time": "Thu, 21 Sep 2023 00:52:38 GMT",
+    "end_time_unix_timestamp": 1695257558,
+    "grade": "D-",
+    "scan_id": 42388749,
+    "score": 25
+  },
+  {
+    "end_time": "Fri, 22 Sep 2023 01:04:50 GMT",
+    "end_time_unix_timestamp": 1695344690,
+    "grade": "D",
+    "scan_id": 42435381,
+    "score": 30
+  },
+  {
+    "end_time": "Sun, 24 Sep 2023 00:41:16 GMT",
+    "end_time_unix_timestamp": 1695516076,
+    "grade": "D-",
+    "scan_id": 42500423,
+    "score": 25
   }
 ]
