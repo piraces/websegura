@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 25 Oct 2023 00:52:47 GMT",
+  "end_time": "Fri, 27 Oct 2023 00:51:54 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,10 +9,10 @@
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Wed, 25 Oct 2023 00:52:43 GMT",
+    "Date": "Fri, 27 Oct 2023 00:51:50 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
     "Referrer-Policy": "strict-origin-when-cross-origin",
-    "Set-Cookie": "AWSALB=xHwuVMpE88Re3ymWL40crrD/486ulJobwP/FKH2nnz63C0vWttrJbUQr5AZMg3CGdFGmDTRiLd6pHbYcnG2/7pP5fwLpKVw5yYMW/PIj6m6nFccOmJ6dHltsltNT; Expires=Wed, 01 Nov 2023 00:52:43 GMT; Path=/, AWSALBCORS=xHwuVMpE88Re3ymWL40crrD/486ulJobwP/FKH2nnz63C0vWttrJbUQr5AZMg3CGdFGmDTRiLd6pHbYcnG2/7pP5fwLpKVw5yYMW/PIj6m6nFccOmJ6dHltsltNT; Expires=Wed, 01 Nov 2023 00:52:43 GMT; Path=/; SameSite=None; Secure",
+    "Set-Cookie": "AWSALB=bUvvgaMxFDvgcsTCsWSnvVtfEHBA0KFfs1WEBnE6ku0UvYjcA4/AAZv3U2XGT0duEoMIECIJ8xwAOfCDRLDI5zkWEeYr9tlLk3FLsnPMPtJGWpy4vjhA94TOAGEt; Expires=Fri, 03 Nov 2023 00:51:50 GMT; Path=/, AWSALBCORS=bUvvgaMxFDvgcsTCsWSnvVtfEHBA0KFfs1WEBnE6ku0UvYjcA4/AAZv3U2XGT0duEoMIECIJ8xwAOfCDRLDI5zkWEeYr9tlLk3FLsnPMPtJGWpy4vjhA94TOAGEt; Expires=Fri, 03 Nov 2023 00:51:50 GMT; Path=/; SameSite=None; Secure, bolt_session_e9237e8a4a9876ba13a439e7b2c09639=e64a4f6a28f9ac237825ac186944e0e3; expires=Fri, 03-Nov-2023 00:51:49 GMT; Max-Age=604800; path=/; HttpOnly",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding",
     "X-Content-Type-Options": "nosniff",
@@ -20,12 +20,12 @@
     "X-FastCGI-Zone": "cache_cartv_sm",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 43628888,
+  "scan_id": 43698427,
   "score": 0,
-  "start_time": "Wed, 25 Oct 2023 00:52:29 GMT",
+  "start_time": "Fri, 27 Oct 2023 00:51:44 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
-  "tests_passed": 6,
+  "tests_failed": 5,
+  "tests_passed": 7,
   "tests_quantity": 12
 }
