@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 08 Dec 2023 01:14:20 GMT",
+  "end_time": "Mon, 11 Dec 2023 01:10:03 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Connection": "keep-alive",
     "Content-Length": "288363",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Fri, 08 Dec 2023 01:14:12 GMT",
+    "Date": "Mon, 11 Dec 2023 01:09:54 GMT",
     "Link": "<https://ayto-antigua.es/wp-json/>; rel=\"https://api.w.org/\", <https://ayto-antigua.es/wp-json/wp/v2/pages/2>; rel=\"alternate\"; type=\"application/json\", <https://ayto-antigua.es/>; rel=shortlink",
     "Server": "nginx",
     "X-DNS-Prefetch-Control": "on",
@@ -18,9 +18,9 @@
     "X-TEC-API-ROOT": "https://ayto-antigua.es/wp-json/tribe/events/v1/",
     "X-TEC-API-VERSION": "v1"
   },
-  "scan_id": 45304994,
+  "scan_id": 45377197,
   "score": 20,
-  "start_time": "Fri, 08 Dec 2023 01:09:16 GMT",
+  "start_time": "Mon, 11 Dec 2023 01:08:59 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
