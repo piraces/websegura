@@ -1,7 +1,7 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Mon, 29 Jan 2024 00:40:17 GMT",
-  "grade": "F",
+  "algorithm_version": 3,
+  "end_time": "Wed, 31 Jan 2024 00:11:53 GMT",
+  "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -10,20 +10,20 @@
     "cache-control": "no-store, no-cache, must-revalidate",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "date": "Mon, 29 Jan 2024 00:39:58 GMT",
+    "date": "Wed, 31 Jan 2024 00:11:49 GMT",
     "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
     "pragma": "no-cache",
     "server": "LiteSpeed",
-    "set-cookie": "PHPSESSID=b819453079ba69999cce939307d49190; expires=Thu, 17-Mar-2078 01:19:56 GMT; Max-Age=1708216798; path=/; secure; HttpOnly; SameSite=Lax, PrestaShop-3f931050620bdc5735871f87ce64b55a=def5020011fe509f3a34262e70e73a6c0f812c1ad2bad4fe2c00d36cec37537b8b5c3bd7d0a20519a97d055e169bad64ecaec32008d9350706512127125c56f99fd07303cb605652d1ff9e5e6c68442e033d4c0315fe6a278b310da2cf9c93890f020281ac990955a29f373cc7069f5875b8360496aad194f0124d73a05b575155ee200c9f46eef2c144558e830bfbaa6f9bd216d87816da5161dda5de1f871a96163f48e133bdbeef741e13ae344ba82c253158455056eee77502fbffc608cb09b2230014fdfd8e58c5bbab64d51ab763795fb801; expires=Sun, 18-Feb-2024 00:39:58 GMT; Max-Age=1728000; path=/; domain=museodelasidra.com; secure; HttpOnly; SameSite=Lax, PrestaShop-3f931050620bdc5735871f87ce64b55a=def5020052e3962f4c0ba20ed9effdfd0e0c6d614f22baa54b3e99e1af9c09fcc6b0100aee64030c358de597609520f97bcffcc6dd806eab921b413ecb1afef42cb0f59f4935649c6217e3eb615a2b94b85b3313a4a8cd29f76f2bf6b43cd40ddd1b058bc0a97b1c45d268ef79ba61a7504645458a370218ce1db5576596747356d1fecba5e728b7896c7bce6b0343eb79a1c64806f6774df339c8fcc4ec38951d2bbd600ace5b2810875955089271ad15f640b35db6b7e50fcf93752377beffcc0ca2bae798af41b3ebcb9e9285f2e95f75262ccd452e551cf3829b1affde3fca070d0ae71a1cc062ecd0f456319a54e0e09b350f9765424d46a2; expires=Sun, 18-Feb-2024 00:39:58 GMT; Max-Age=1728000; path=/; domain=museodelasidra.com; secure; HttpOnly; SameSite=Lax",
+    "set-cookie": "PHPSESSID=714ad4ca7ada9aa1b1fe798d27b12df9; expires=Mon, 21-Mar-2078 00:23:38 GMT; Max-Age=1708387909; path=/; secure; HttpOnly; SameSite=Lax, PrestaShop-3f931050620bdc5735871f87ce64b55a=def50200f77c5fa1468e870cca0421f7bf1c70123038a72029a8d44b814fa669e4d24820b3e32734771e95cc0ddf2e8211812b989a846d18a534e91c7b20c1e7849269c4cf67ff323c1d8b3b60429c8205b5d8b86ea60df0e97d8d36140f15a7a620b7ee9407056b6a861a4387e3a2e212831fed270ccd424f044eaaf7af831ccb8b3057d1b60e31b6e555b1c42f6ef39c7a3c9360f0892223d5c27ab5e85d16ece05eb80095f88cff40dd8a1a1678f5175e7b15a41d78fe8801de5a2be6b827758f97040ef1cfccf25e22aa4fa527fde4570fd5ce; expires=Tue, 20-Feb-2024 00:11:49 GMT; Max-Age=1728000; path=/; domain=museodelasidra.com; secure; HttpOnly; SameSite=Lax, PrestaShop-3f931050620bdc5735871f87ce64b55a=def502003bb6e05ac5e461f2991fda940963d038d3f6e270a5e028d6b5f292548ff586869c7adf454bb7e154b2a4b2dcc168017bbf867baa6e28ada992e3c2300faa33c8c52e3ebace867095e994954b079dc0297375ed18acaf1c1be86448cbf0c1bed70fdc03b26d0a4856546eb63233e16a02b6f3d54e8b477db00e3021bdecd83ce064dcc33367b4cd131429f01f15760f3bceffaa9d8e854a754e76358537bc7cec449bd7afe73073e965e0a666e41baa070c873a02faff77b92af51b219f9cc19af8d9e2bb55b126706444fb49bf1eb7a5474fe60db230913b2d36e1a977c9821d97070b17956fef7ead5d2c4a83a207018904f77e72b09c; expires=Tue, 20-Feb-2024 00:11:49 GMT; Max-Age=1728000; path=/; domain=museodelasidra.com; secure; HttpOnly; SameSite=Lax",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding"
   },
-  "scan_id": 47150577,
-  "score": 15,
-  "start_time": "Mon, 29 Jan 2024 00:08:37 GMT",
+  "scan_id": 47017367,
+  "score": 25,
+  "start_time": "Wed, 31 Jan 2024 00:11:44 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
+  "tests_failed": 5,
   "tests_passed": 6,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }
