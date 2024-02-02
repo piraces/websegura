@@ -1,27 +1,27 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Mon, 29 Jan 2024 01:01:44 GMT",
+  "algorithm_version": 3,
+  "end_time": "Fri, 02 Feb 2024 00:09:19 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "private",
-    "Content-Length": "63460",
+    "Content-Length": "63459",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Mon, 29 Jan 2024 01:01:33 GMT",
+    "Date": "Fri, 02 Feb 2024 00:09:15 GMT",
     "Server": "Microsoft-IIS/10.0",
-    "Set-Cookie": ".ASPXANONYMOUS=wj1euqXE91U3eoLSg2RDekcYA7RzLkZQZlYjpBiyVljGTeNH9178SVjQXS81aLOtU-RH9ZOuAQ6SSsGcq29S62CtjPewsEZMH-2QhfriseRNA1w5GGmczwnHazx_zoIrwjPHRmyx2FIFDzgOKfYDJg2; expires=Sun, 07-Apr-2024 11:41:33 GMT; path=/; HttpOnly, ASP.NET_SessionId=4bgypqwkuwu2s1rmerk0comr; path=/; HttpOnly; SameSite=Lax, lang=ca; expires=Wed, 29-Jan-2025 01:01:33 GMT; path=/, .ASPXAUTH=76EF9544BAA7322AB23075CB6A524DBBFE86C7D1D0D529CC8EFD64BA257656C9EF74ED9F622D268CF119CBE8D1BAA5F25C9E048BDF9536A1693A251498B8C9EB3E6739DA229341029D6F050CB89CEE39C68E990EDE2F7D92A710FDDD5A07ADFF; path=/; HttpOnly; SameSite=Lax, carteroModal=cerrar; path=/, Cookies=true; expires=Tue, 30-Jan-2024 01:01:33 GMT; path=/",
+    "Set-Cookie": ".ASPXANONYMOUS=5N8vUJIt5JQTYBkQUk6VdsNCFn-jVqksr_1-YjKjp0rrHvQowfgdS27OMRgG27Vg62nLMLSrcDgJ2MCWBzv9f_SJ7wr-6xS6VheIDgstAXAuexQZL_tY3ZPOHpzKb1MCfr9Q0fgG0lmazEQGaxyOpQ2; expires=Thu, 11-Apr-2024 10:49:16 GMT; path=/; HttpOnly, ASP.NET_SessionId=f011vohkgw02g1ak0lwq12a1; path=/; HttpOnly; SameSite=Lax, lang=ca; expires=Sun, 02-Feb-2025 00:09:16 GMT; path=/, .ASPXAUTH=5943D98FB27790EE3E50138B0FF9CFA18DD6528637291257557F41585906BC31C411D05B9E0C1A8D964EB5558982AE38709D66E716EB7C5DF3ADB511FD0831CD1F7E333A1D44C762328F5AB44DD35935781096DD3BE8B9BFE62B3D376931EDF9; path=/; HttpOnly; SameSite=Lax, carteroModal=cerrar; path=/, Cookies=true; expires=Sat, 03-Feb-2024 00:09:16 GMT; path=/",
     "Strict-Transport-Security": "max-age=31536000",
     "X-AspNet-Version": "4.0.30319",
     "X-Powered-By": "ASP.NET",
     "X-Xss-Protection": "1"
   },
-  "scan_id": 47151603,
+  "scan_id": 47091537,
   "score": 20,
-  "start_time": "Mon, 29 Jan 2024 00:53:50 GMT",
+  "start_time": "Fri, 02 Feb 2024 00:09:13 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
-  "tests_passed": 7,
-  "tests_quantity": 12
+  "tests_passed": 6,
+  "tests_quantity": 11
 }
