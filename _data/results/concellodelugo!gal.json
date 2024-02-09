@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:11:09 GMT",
+  "algorithm_version": 3,
+  "end_time": "Fri, 09 Feb 2024 00:11:10 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,24 +11,24 @@
     "Content-Encoding": "gzip",
     "Content-Language": "gl",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Tue, 30 Jan 2024 00:11:00 GMT",
-    "Etag": "W/\"1706555708-0\"",
-    "Expires": "Tue, 30 Jan 2024 01:11:00 GMT",
-    "Last-Modified": "Mon, 29 Jan 2024 19:15:08 +0000",
+    "Date": "Fri, 09 Feb 2024 00:11:07 GMT",
+    "Etag": "W/\"1707404410-0\"",
+    "Expires": "Fri, 09 Feb 2024 01:11:07 GMT",
+    "Last-Modified": "Thu, 08 Feb 2024 15:00:10 +0000",
     "Link": "<https://concellodelugo.gal/gl>; rel=\"canonical\",<https://concellodelugo.gal/gl>; rel=\"shortlink\"",
     "Server": "nginx",
-    "Set-Cookie": "cookiesession1=678A3E2475655D44B3183FAFA5F0B6A0;Expires=Wed, 29 Jan 2025 00:11:00 GMT;Path=/;HttpOnly",
+    "Set-Cookie": "cookiesession1=678A3E2405496722663581EB84B7E6E8;Expires=Sat, 08 Feb 2025 00:11:07 GMT;Path=/;HttpOnly",
     "Vary": "Cookie",
     "X-UA-Compatible": "IE=edge,chrome=1",
     "X-XSS-Protection": "1",
-    "content-length": "31794"
+    "content-length": "31979"
   },
-  "scan_id": 47176916,
+  "scan_id": 47340068,
   "score": 0,
-  "start_time": "Tue, 30 Jan 2024 00:10:49 GMT",
+  "start_time": "Fri, 09 Feb 2024 00:11:04 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
-  "tests_passed": 6,
-  "tests_quantity": 12
+  "tests_passed": 5,
+  "tests_quantity": 11
 }

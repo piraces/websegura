@@ -1,26 +1,26 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Fri, 26 Jan 2024 00:20:13 GMT",
-  "grade": "F",
+  "algorithm_version": 3,
+  "end_time": "Fri, 09 Feb 2024 00:11:08 GMT",
+  "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "close",
     "Content-Length": "263",
     "Content-Type": "text/html",
-    "Date": "Fri, 26 Jan 2024 00:20:12 GMT",
-    "Expires": "Fri, 26 Jan 2024 00:20:12 GMT",
+    "Date": "Fri, 09 Feb 2024 00:11:07 GMT",
+    "Expires": "Fri, 09 Feb 2024 00:11:07 GMT",
     "Mime-Version": "1.0",
     "Server": "AkamaiGHost",
-    "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1706228412652_399424420_1467525085_610_6595_16_27_-\";dur=1",
+    "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1707437467187_388125510_1130494868_13_5096_24_7_-\";dur=1",
     "Strict-Transport-Security": "max-age=15768000"
   },
-  "scan_id": 47054102,
-  "score": 20,
-  "start_time": "Fri, 26 Jan 2024 00:11:46 GMT",
+  "scan_id": 47340077,
+  "score": 30,
+  "start_time": "Fri, 09 Feb 2024 00:11:06 GMT",
   "state": "FINISHED",
   "status_code": 403,
-  "tests_failed": 5,
+  "tests_failed": 4,
   "tests_passed": 7,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }
