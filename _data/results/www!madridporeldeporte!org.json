@@ -1,13 +1,13 @@
 {
   "algorithm_version": 3,
-  "end_time": "Wed, 07 Feb 2024 10:30:47 GMT",
+  "end_time": "Sun, 11 Feb 2024 00:09:14 GMT",
   "grade": "D-",
-  "hidden": true,
+  "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "Keep-Alive",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Wed, 07 Feb 2024 10:30:42 GMT",
+    "Date": "Sun, 11 Feb 2024 00:09:08 GMT",
     "Keep-Alive": "timeout=3, max=100",
     "Link": "<https://www.madridporeldeporte.org/wp-json/>; rel=\"https://api.w.org/\", <https://www.madridporeldeporte.org/>; rel=shortlink",
     "Server": "Apache/2.4.58 (Unix)",
@@ -16,9 +16,9 @@
     "X-Pingback": "https://www.madridporeldeporte.org/xmlrpc.php",
     "X-Powered-By": "PHP/7.4.33"
   },
-  "scan_id": 47272476,
+  "scan_id": 47419449,
   "score": 25,
-  "start_time": "Wed, 07 Feb 2024 10:30:39 GMT",
+  "start_time": "Sun, 11 Feb 2024 00:09:04 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
