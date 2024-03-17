@@ -1,27 +1,25 @@
 {
   "algorithm_version": 3,
-  "end_time": "Tue, 12 Mar 2024 00:11:15 GMT",
+  "end_time": "Sun, 17 Mar 2024 00:13:22 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
-    "Cache-Control": "private",
-    "Content-Encoding": "gzip",
-    "Date": "Tue, 12 Mar 2024 00:11:13 GMT",
+    "Content-Length": "0",
+    "Date": "Sun, 17 Mar 2024 00:13:17 GMT",
     "Server": "Google Frontend",
-    "Transfer-Encoding": "chunked",
     "Via": "1.1 google",
+    "X-Cloud-Trace-Context": "64180e4024e536a37e4067d065cec6e4",
     "accept-ch": "Sec-CH-Save-Data, Sec-CH-DPR, Sec-CH-Width, Sec-CH-Viewport-Width, Sec-CH-Viewport-Height, Sec-CH-Device-Memory, Sec-CH-RTT, Sec-CH-Downlink, Sec-CH-ECT, Sec-CH-Prefers-Color-Scheme, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version",
-    "content-type": "text/html; charset=UTF-8",
-    "vary": "Accept-Encoding"
+    "content-type": "text/html; charset=UTF-8"
   },
-  "scan_id": 48746658,
-  "score": 5,
-  "start_time": "Tue, 12 Mar 2024 00:11:08 GMT",
+  "scan_id": 48949904,
+  "score": 10,
+  "start_time": "Sun, 17 Mar 2024 00:13:16 GMT",
   "state": "FINISHED",
-  "status_code": 200,
-  "tests_failed": 6,
-  "tests_passed": 5,
+  "status_code": 500,
+  "tests_failed": 5,
+  "tests_passed": 6,
   "tests_quantity": 11
 }
