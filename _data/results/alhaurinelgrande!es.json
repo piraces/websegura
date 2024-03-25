@@ -1,28 +1,26 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:11:18 GMT",
-  "grade": "F",
+  "algorithm_version": 3,
+  "end_time": "Mon, 25 Mar 2024 00:12:30 GMT",
+  "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
-    "Connection": "Keep-Alive",
+    "Connection": "keep-alive",
     "Content-Encoding": "gzip",
+    "Content-Length": "22465",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 30 Jan 2024 00:11:00 GMT",
-    "Keep-Alive": "timeout=5, max=100",
-    "Link": "<https://alhaurinelgrande.es/wp-json/>; rel=\"https://api.w.org/\", <https://alhaurinelgrande.es/wp-json/wp/v2/pages/202175>; rel=\"alternate\"; type=\"application/json\", <https://alhaurinelgrande.es/>; rel=shortlink",
-    "Server": "Apache",
-    "Transfer-Encoding": "chunked",
+    "Date": "Mon, 25 Mar 2024 00:12:24 GMT",
+    "Link": "<https://alhaurinelgrande.es/wp-json/>; rel=\"https://api.w.org/\", <https://alhaurinelgrande.es/wp-json/wp/v2/pages/1463>; rel=\"alternate\"; type=\"application/json\", <https://alhaurinelgrande.es/>; rel=shortlink",
+    "Server": "nginx",
     "Vary": "Accept-Encoding",
-    "X-Pingback": "https://alhaurinelgrande.es/xmlrpc.php",
-    "X-Powered-By": "PHP/7.4.33, PleskLin"
+    "X-Powered-By": "PHP/8.1.27, PleskLin"
   },
-  "scan_id": 47176927,
-  "score": 15,
-  "start_time": "Tue, 30 Jan 2024 00:10:50 GMT",
+  "scan_id": 49258668,
+  "score": 30,
+  "start_time": "Mon, 25 Mar 2024 00:12:21 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
-  "tests_passed": 6,
-  "tests_quantity": 12
+  "tests_failed": 4,
+  "tests_passed": 7,
+  "tests_quantity": 11
 }
