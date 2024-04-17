@@ -1,26 +1,26 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 09 Mar 2021 00:37:22 GMT",
+  "algorithm_version": 3,
+  "end_time": "Tue, 16 Apr 2024 12:55:57 GMT",
   "grade": "F",
-  "hidden": false,
+  "hidden": true,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "public, must-revalidate, s-maxage=300",
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Tue, 09 Mar 2021 00:37:18 GMT",
+    "Date": "Tue, 16 Apr 2024 12:55:55 GMT",
     "Keep-Alive": "timeout=5, max=99",
     "Server": "Apache",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding"
   },
-  "scan_id": 18110301,
-  "score": 0,
-  "start_time": "Tue, 09 Mar 2021 00:37:14 GMT",
+  "scan_id": 50077972,
+  "score": 5,
+  "start_time": "Tue, 16 Apr 2024 12:55:51 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
-  "tests_passed": 6,
-  "tests_quantity": 12
+  "tests_passed": 5,
+  "tests_quantity": 11
 }

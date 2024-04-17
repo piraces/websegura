@@ -1,24 +1,26 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Sun, 07 Mar 2021 20:03:49 GMT",
+  "algorithm_version": 3,
+  "end_time": "Wed, 17 Apr 2024 00:12:15 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
-    "Content-Length": "5324",
+    "Accept-Encoding": "gzip",
+    "Content-Encoding": "gzip",
+    "Content-Length": "25304",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sun, 07 Mar 2021 20:03:32 GMT",
-    "Link": "<http://www.berrioplano.es/wp-json/>; rel=\"https://api.w.org/\", <http://www.berrioplano.es/>; rel=shortlink",
-    "Server": "Microsoft-IIS/8.5",
-    "Set-Cookie": "qtrans_front_language=es; expires=Mon, 07-Mar-2022 20:03:32 GMT; Max-Age=31536000; path=/",
-    "X-Powered-By": "PHP/5.6.21, ASP.NET"
+    "Date": "Wed, 17 Apr 2024 00:12:06 GMT",
+    "Link": "<https://www.berrioplano.es/wp-json/>; rel=\"https://api.w.org/\"",
+    "Server": "Microsoft-IIS/10.0",
+    "Vary": "Accept-Encoding",
+    "X-Powered-By": "PHP/8.0.30, ASP.NET"
   },
-  "scan_id": 18090486,
+  "scan_id": 50091036,
   "score": 0,
-  "start_time": "Sun, 07 Mar 2021 20:01:56 GMT",
+  "start_time": "Wed, 17 Apr 2024 00:12:00 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
-  "tests_passed": 5,
-  "tests_quantity": 12
+  "tests_failed": 5,
+  "tests_passed": 6,
+  "tests_quantity": 11
 }

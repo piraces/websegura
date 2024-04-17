@@ -1,28 +1,25 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 09 Mar 2021 08:32:38 GMT",
+  "algorithm_version": 3,
+  "end_time": "Wed, 17 Apr 2024 00:12:37 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
-    "Cache-Control": "no-store, no-cache, must-revalidate",
+    "Cache-Control": "max-age=3, must-revalidate",
     "Connection": "keep-alive",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 09 Mar 2021 08:32:04 GMT",
-    "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
-    "Link": "<https://www.visitlapalma.es/wp-json/>; rel=\"https://api.w.org/\", <https://www.visitlapalma.es/>; rel=shortlink",
-    "Pragma": "no-cache",
+    "Date": "Wed, 17 Apr 2024 00:12:28 GMT",
     "Server": "nginx",
-    "Set-Cookie": "PHPSESSID=8iv8400q20ipe4hhn95tc4fnf8; path=/",
     "Transfer-Encoding": "chunked",
-    "X-Powered-By": "PHP/7.3.27, PleskLin"
+    "Vary": "Accept-Encoding,Cookie",
+    "X-Powered-By": "PHP/8.0.30, PleskLin"
   },
-  "scan_id": 18115856,
+  "scan_id": 50091073,
   "score": 0,
-  "start_time": "Tue, 09 Mar 2021 08:31:59 GMT",
+  "start_time": "Wed, 17 Apr 2024 00:12:24 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
-  "tests_passed": 5,
-  "tests_quantity": 12
+  "tests_failed": 5,
+  "tests_passed": 6,
+  "tests_quantity": 11
 }

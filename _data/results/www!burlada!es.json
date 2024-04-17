@@ -1,24 +1,30 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 09 Mar 2021 08:32:44 GMT",
+  "algorithm_version": 3,
+  "end_time": "Wed, 17 Apr 2024 00:12:14 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
-    "Content-Length": "294358",
+    "Accept-Encoding": "gzip",
+    "Cache-Control": "max-age=3600, public",
+    "Content-Encoding": "gzip",
+    "Content-Length": "19907",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 09 Mar 2021 08:32:11 GMT",
-    "Link": "<http://www.burlada.es/wp-json/>; rel=\"https://api.w.org/\", <http://www.burlada.es/>; rel=shortlink",
-    "Server": "Microsoft-IIS/8.5",
-    "Set-Cookie": "qtrans_front_language=es; expires=Wed, 09-Mar-2022 08:32:03 GMT; Max-Age=31536000; path=/",
-    "X-Powered-By": "PHP/5.6.21, ASP.NET"
+    "Date": "Wed, 17 Apr 2024 00:12:04 GMT",
+    "ETag": "\"a8ba3ab0e2270d67f7b723a68ede6c9e\"",
+    "Expires": "Wed, 17 Apr 2024 01:12:04 GMT",
+    "Last-Modified": "Wed, 17 Apr 2024 00:12:04 GMT",
+    "Pragma": "public",
+    "Server": "Microsoft-IIS/10.0",
+    "Vary": "Accept-Encoding",
+    "X-Powered-By": "PHP/8.0.30, ASP.NET"
   },
-  "scan_id": 18115852,
+  "scan_id": 50091039,
   "score": 0,
-  "start_time": "Tue, 09 Mar 2021 08:31:59 GMT",
+  "start_time": "Wed, 17 Apr 2024 00:12:01 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 8,
-  "tests_passed": 4,
-  "tests_quantity": 12
+  "tests_failed": 5,
+  "tests_passed": 6,
+  "tests_quantity": 11
 }

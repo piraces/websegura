@@ -1,28 +1,27 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Wed, 10 Mar 2021 01:08:56 GMT",
-  "grade": "F",
+  "algorithm_version": 3,
+  "end_time": "Wed, 17 Apr 2024 00:13:02 GMT",
+  "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "max-age=3, must-revalidate",
-    "Connection": "Keep-Alive",
+    "Connection": "keep-alive",
     "Content-Encoding": "gzip",
-    "Content-Length": "19224",
+    "Content-Length": "45595",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Wed, 10 Mar 2021 01:08:07 GMT",
-    "Keep-Alive": "timeout=5, max=100",
-    "Last-Modified": "Wed, 10 Mar 2021 00:54:59 GMT",
-    "Server": "Apache",
+    "Date": "Wed, 17 Apr 2024 00:12:40 GMT",
+    "Last-Modified": "Tue, 16 Apr 2024 23:58:57 GMT",
+    "Server": "nginx",
     "Vary": "Accept-Encoding,Cookie",
-    "X-Powered-By": "PHP/7.3.26, PleskLin"
+    "X-Powered-By": "PHP/7.4.33, PleskLin"
   },
-  "scan_id": 18128469,
-  "score": 0,
-  "start_time": "Wed, 10 Mar 2021 00:27:42 GMT",
+  "scan_id": 50091107,
+  "score": 25,
+  "start_time": "Wed, 17 Apr 2024 00:12:39 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
-  "tests_passed": 5,
-  "tests_quantity": 12
+  "tests_failed": 5,
+  "tests_passed": 6,
+  "tests_quantity": 11
 }
