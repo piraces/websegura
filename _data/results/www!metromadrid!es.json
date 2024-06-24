@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 22 Jun 2024 00:12:27 GMT",
+  "end_time": "Mon, 24 Jun 2024 00:13:44 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,11 +10,11 @@
     "Content-Length": "245",
     "Content-Type": "text/html",
     "Pragma": "no-cache",
-    "Set-Cookie": "TS9bc9eb1c027=08c5d7641cab2000b8393c94bab98d1293aba62b0086e1cf8080c863073a162f708db5f15b342c8708678d8d9c113000f9130344261b3448d5705556556ab682b0d49506a5068d8820a6eee7f0d03fcb5f68c8b27f5be962cfe9c19d2c815cc7; Path=/, f5avraaaaaaaaaaaaaaaa_session_=NGBIKEHDCIBDPLEJFDMPACAJLHMOAJNGJIAONHIGAJGJCGMELDNHDCJABKMCKKONMNMDNLAPHGEFANKDILCAPHLKABOGGHBKPMDMDLDDFJMHPJKMJDENGNOHIKJCEIKC; HttpOnly; secure"
+    "Set-Cookie": "TS9bc9eb1c027=08c5d7641cab2000246867a353524e210e334d1b125fda710d79793f24d7b4aea958c6033853e3ee08cd88e6ac1130006bcf5af9ac541512d13875fbcbf0f5167143cdb5743b8d57da809e3d99f43a47c532b91d0e096186e9ae8ab3c6843c17; Path=/"
   },
-  "scan_id": 52552398,
+  "scan_id": 52621982,
   "score": 10,
-  "start_time": "Sat, 22 Jun 2024 00:12:23 GMT",
+  "start_time": "Mon, 24 Jun 2024 00:13:39 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
