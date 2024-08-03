@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Fri, 19 Jul 2024 01:12:40 GMT",
+  "end_time": "Sat, 03 Aug 2024 00:12:42 GMT",
   "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,21 +8,21 @@
     "Access-Control-Allow-Origin": "https://documentviewer.inventia.es",
     "Cache-Control": "public, max-age=0",
     "Connection": "Keep-Alive",
-    "Content-Length": "111819",
+    "Content-Length": "112366",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Fri, 19 Jul 2024 01:12:31 GMT",
+    "Date": "Sat, 03 Aug 2024 00:12:37 GMT",
     "Keep-Alive": "timeout=5, max=99",
-    "Last-Modified": "Fri, 19 Jul 2024 01:12:32 GMT",
+    "Last-Modified": "Sat, 03 Aug 2024 00:12:37 GMT",
     "Server": "OpenCms/9.0.1",
-    "Set-Cookie": "JSESSIONID=2710E81DD03301DE4F99F4108C0555DB; Path=/; Secure; HttpOnly",
+    "Set-Cookie": "JSESSIONID=D787C91838C833BE74AEA36A2D87FA6D; Path=/; Secure; HttpOnly",
     "Vary": "Origin"
   },
-  "scan_id": 53551071,
+  "scan_id": 54047740,
   "score": 25,
-  "start_time": "Fri, 19 Jul 2024 01:12:32 GMT",
+  "start_time": "Sat, 03 Aug 2024 00:12:34 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
-  "tests_passed": 6,
-  "tests_quantity": 11
+  "tests_passed": 5,
+  "tests_quantity": 10
 }
