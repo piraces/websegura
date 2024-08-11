@@ -1,7 +1,7 @@
 {
   "algorithm_version": 3,
-  "end_time": "Thu, 08 Aug 2024 01:02:24 GMT",
-  "grade": "D",
+  "end_time": "Sun, 11 Aug 2024 00:14:57 GMT",
+  "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -9,20 +9,20 @@
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Thu, 08 Aug 2024 01:02:20 GMT",
+    "Date": "Sun, 11 Aug 2024 00:14:53 GMT",
     "Keep-Alive": "timeout=5, max=100",
-    "Last-Modified": "Thu, 08 Aug 2024 01:02:20 GMT",
+    "Last-Modified": "Sun, 11 Aug 2024 00:14:53 GMT",
     "Server": "OpenCms/9.0.1",
-    "Set-Cookie": "JSESSIONID=582D099A7D058209100A95DA6A2BD762; Path=/; Secure; HttpOnly",
+    "Set-Cookie": "JSESSIONID=AF305987E9CF02275B620AF7D1E68CB2; Path=/; Secure; HttpOnly",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding"
   },
-  "scan_id": 54227468,
-  "score": 30,
-  "start_time": "Thu, 08 Aug 2024 01:02:16 GMT",
+  "scan_id": 54324636,
+  "score": 25,
+  "start_time": "Sun, 11 Aug 2024 00:14:51 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 4,
-  "tests_passed": 6,
+  "tests_failed": 5,
+  "tests_passed": 5,
   "tests_quantity": 10
 }
