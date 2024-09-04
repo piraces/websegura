@@ -75,5 +75,12 @@
     "grade": "D",
     "scan_id": 55171771,
     "score": 30
+  },
+  {
+    "end_time": "Wed, 04 Sep 2024 00:13:47 GMT",
+    "end_time_unix_timestamp": 1725408827,
+    "grade": "C",
+    "scan_id": 55255810,
+    "score": 55
   }
 ]
