@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Thu, 12 Sep 2024 01:07:24 GMT",
+  "end_time": "Sat, 14 Sep 2024 00:52:25 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Cache-Control": "private, no-cache, no-store, must-revalidate",
     "Connection": "Keep-Alive",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Thu, 12 Sep 2024 01:07:08 GMT",
+    "Date": "Sat, 14 Sep 2024 00:52:09 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
     "Keep-Alive": "timeout=15, max=99",
     "Pragma": "no-cache",
@@ -19,9 +19,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 55540540,
+  "scan_id": 55611616,
   "score": 0,
-  "start_time": "Thu, 12 Sep 2024 01:07:05 GMT",
+  "start_time": "Sat, 14 Sep 2024 00:52:05 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
