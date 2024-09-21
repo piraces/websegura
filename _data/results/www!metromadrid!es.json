@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Thu, 19 Sep 2024 00:13:59 GMT",
+  "end_time": "Sat, 21 Sep 2024 01:06:24 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,11 +10,11 @@
     "Content-Length": "245",
     "Content-Type": "text/html",
     "Pragma": "no-cache",
-    "Set-Cookie": "TS9bc9eb1c027=08c5d7641cab2000da837d2512965e8912e2b79d10aaec3e19fab382a1142babb01ef390ad4d0f6b08515a4ccb113000efacc11ae277548f26fb7055ccdd918ac44aca892bad2a8ab329c4cd2480afb770a747521317bf75f16cb5d2d0d38b62; Path=/, f5avraaaaaaaaaaaaaaaa_session_=GHHDEOHGOFDIGLIMFOLDDLCEHCJKAKKBDCMDCEOJLLBIDLDGDGGNLDAOODFNNGACBHDDDNEBDLCOLCPAJNBAHEEPOGHBMDHNEBJGFIPADAJGLMMHKAIFDJDCNJPKPPFM; HttpOnly; secure"
+    "Set-Cookie": "TS9bc9eb1c027=08c5d7641cab2000732b84132a304733702a29feb312b9c221d5e0ab3d4c2af77e7433646708de30087af5fdb41130007c678d3a30bfa5697cf9b4f4cace1f1a16b632dc1b394a793f152b36d62d843abc422fe16fb7ca79871558d07a38316b; Path=/, f5avraaaaaaaaaaaaaaaa_session_=CDHIIPHOHIDKPICCCPCOIHGODKPNBHFPMPGNJBFAJPIDGHOAFKILCJKJLIODBGCONFIDDDGKLLKMBJDLNNNADHPGCBKFPIMNFDKOEPOOPGBFNPJBELHGEBPPKODMEFFN; HttpOnly; secure"
   },
-  "scan_id": 55810298,
+  "scan_id": 55893009,
   "score": 10,
-  "start_time": "Thu, 19 Sep 2024 00:13:54 GMT",
+  "start_time": "Sat, 21 Sep 2024 01:06:19 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
