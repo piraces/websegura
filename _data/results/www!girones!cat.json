@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Thu, 19 Sep 2024 01:08:10 GMT",
+  "end_time": "Sun, 22 Sep 2024 01:14:16 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "55076",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Thu, 19 Sep 2024 01:08:06 GMT",
+    "Date": "Sun, 22 Sep 2024 01:14:10 GMT",
     "Keep-Alive": "timeout=4, max=105",
     "Link": "<https://www.girones.cat/wp-json/>; rel=\"https://api.w.org/\", <https://www.girones.cat/wp-json/wp/v2/pages/5>; rel=\"alternate\"; type=\"application/json\", <https://www.girones.cat/>; rel=shortlink",
     "Server": "Apache",
@@ -17,9 +17,9 @@
     "Upgrade": "h2",
     "Vary": "Accept-Encoding"
   },
-  "scan_id": 55811611,
+  "scan_id": 55930584,
   "score": 0,
-  "start_time": "Thu, 19 Sep 2024 01:08:02 GMT",
+  "start_time": "Sun, 22 Sep 2024 01:14:06 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
