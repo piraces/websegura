@@ -348,5 +348,47 @@
     "grade": "F",
     "scan_id": 55171829,
     "score": 0
+  },
+  {
+    "end_time": "Wed, 18 Sep 2024 00:14:36 GMT",
+    "end_time_unix_timestamp": 1726618476,
+    "grade": "D",
+    "scan_id": 55764607,
+    "score": 30
+  },
+  {
+    "end_time": "Sun, 22 Sep 2024 00:16:35 GMT",
+    "end_time_unix_timestamp": 1726964195,
+    "grade": "F",
+    "scan_id": 55929225,
+    "score": 0
+  },
+  {
+    "end_time": "Mon, 23 Sep 2024 01:09:23 GMT",
+    "end_time_unix_timestamp": 1727053763,
+    "grade": "D",
+    "scan_id": 55963991,
+    "score": 30
+  },
+  {
+    "end_time": "Wed, 25 Sep 2024 00:15:02 GMT",
+    "end_time_unix_timestamp": 1727223302,
+    "grade": "F",
+    "scan_id": 56050339,
+    "score": 0
+  },
+  {
+    "end_time": "Thu, 26 Sep 2024 01:08:59 GMT",
+    "end_time_unix_timestamp": 1727312939,
+    "grade": "D",
+    "scan_id": 56096398,
+    "score": 30
+  },
+  {
+    "end_time": "Mon, 30 Sep 2024 00:15:30 GMT",
+    "end_time_unix_timestamp": 1727655330,
+    "grade": "F",
+    "scan_id": 56249652,
+    "score": 0
   }
 ]

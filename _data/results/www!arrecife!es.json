@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Thu, 26 Sep 2024 01:08:53 GMT",
+  "end_time": "Mon, 30 Sep 2024 00:15:25 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Length": "11538",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "es",
-    "Date": "Thu, 26 Sep 2024 01:08:50 GMT",
+    "Date": "Mon, 30 Sep 2024 00:15:22 GMT",
     "ETag": "\"1726859343-gzip\"",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Last-Modified": "Fri, 20 Sep 2024 19:09:03 GMT",
@@ -24,9 +24,9 @@
     "X-Generator": "Drupal 8 (https://www.drupal.org)",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 56096381,
+  "scan_id": 56249638,
   "score": 30,
-  "start_time": "Thu, 26 Sep 2024 01:08:48 GMT",
+  "start_time": "Mon, 30 Sep 2024 00:15:20 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
