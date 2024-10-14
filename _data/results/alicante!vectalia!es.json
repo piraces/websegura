@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 12 Oct 2024 00:14:01 GMT",
+  "end_time": "Mon, 14 Oct 2024 00:15:26 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,15 +10,15 @@
     "Connection": "close",
     "Content-Length": "374",
     "Content-Type": "text/html",
-    "Date": "Sat, 12 Oct 2024 00:14:01 GMT",
-    "Expires": "Sat, 12 Oct 2024 00:14:01 GMT",
+    "Date": "Mon, 14 Oct 2024 00:15:26 GMT",
+    "Expires": "Mon, 14 Oct 2024 00:15:26 GMT",
     "Mime-Version": "1.0",
     "Pragma": "no-cache",
-    "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1728692041084_388125526_307069958_19_7634_8_18_-\";dur=1"
+    "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1728864926440_388125528_421220854_40_7127_10_56_-\";dur=1"
   },
-  "scan_id": 56742446,
+  "scan_id": 56810452,
   "score": 30,
-  "start_time": "Sat, 12 Oct 2024 00:13:59 GMT",
+  "start_time": "Mon, 14 Oct 2024 00:15:25 GMT",
   "state": "FINISHED",
   "status_code": 403,
   "tests_failed": 4,
